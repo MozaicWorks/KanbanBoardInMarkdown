@@ -22,7 +22,7 @@ You need the following for this to work:
 * Check out the sample `board.md`
 * Edit it as you wish
 * Run `make`
-* Run `make open` to see the result
+* Run `make open` to see the result (works with xdg-open, which probably means only on Linux systems)
 
 ## Limitations
 
