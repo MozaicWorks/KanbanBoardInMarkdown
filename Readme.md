@@ -1,6 +1,6 @@
 # Kanban Board in Markdown
 
-This is a simple implementation of a generator for a Kanban board defined as markdown. See a sample output [here](https://github.com/MozaicWorks/KanbanBoardInMarkdown/tree/master/sample/board.html). 
+This is a simple implementation of a generator for a Kanban board defined as markdown. See a sample output [here](https://htmlpreview.github.io/?https://raw.githubusercontent.com/MozaicWorks/KanbanBoardInMarkdown/master/sample/board.html). 
 
 Feel free to clone it, modify it, send push requests, let us know how you've changed it, or suggest improvements.
 
