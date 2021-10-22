@@ -2,7 +2,7 @@
 
 ## Today
 
-* Implement feature
+* [Implement feature](https://google.com/){target="_blank"}
 * Talk to customer 
 * Improve website design
 
@@ -12,12 +12,10 @@
 
 ## Later
 
-* Try out new technology
+* Try out new **technology**
 
 ## Past
 
-### 21 Oct 2021
-
-* Fix bug
+* Fix *bug*
 * Webinar
 * Record video
