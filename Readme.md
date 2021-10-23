@@ -23,6 +23,7 @@ You need the following for this to work:
 * Edit it as you wish
 * Run `make`
 * Run `make open` to see the result (works with xdg-open, which probably means only on Linux systems)
+* Also works from an url, for an example call `make fromUrl`
 
 ## Limitations
 
